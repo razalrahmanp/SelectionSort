@@ -1,0 +1,15 @@
+G:\Razal\Sourcecodes\C#\Algorithms\SelectionSort\obj\Debug\net7.0\SelectionSort.csproj.AssemblyReference.cache
+G:\Razal\Sourcecodes\C#\Algorithms\SelectionSort\obj\Debug\net7.0\SelectionSort.GeneratedMSBuildEditorConfig.editorconfig
+G:\Razal\Sourcecodes\C#\Algorithms\SelectionSort\obj\Debug\net7.0\SelectionSort.AssemblyInfoInputs.cache
+G:\Razal\Sourcecodes\C#\Algorithms\SelectionSort\obj\Debug\net7.0\SelectionSort.AssemblyInfo.cs
+G:\Razal\Sourcecodes\C#\Algorithms\SelectionSort\obj\Debug\net7.0\SelectionSort.csproj.CoreCompileInputs.cache
+G:\Razal\Sourcecodes\C#\Algorithms\SelectionSort\bin\Debug\net7.0\SelectionSort.exe
+G:\Razal\Sourcecodes\C#\Algorithms\SelectionSort\bin\Debug\net7.0\SelectionSort.deps.json
+G:\Razal\Sourcecodes\C#\Algorithms\SelectionSort\bin\Debug\net7.0\SelectionSort.runtimeconfig.json
+G:\Razal\Sourcecodes\C#\Algorithms\SelectionSort\bin\Debug\net7.0\SelectionSort.dll
+G:\Razal\Sourcecodes\C#\Algorithms\SelectionSort\bin\Debug\net7.0\SelectionSort.pdb
+G:\Razal\Sourcecodes\C#\Algorithms\SelectionSort\obj\Debug\net7.0\SelectionSort.dll
+G:\Razal\Sourcecodes\C#\Algorithms\SelectionSort\obj\Debug\net7.0\refint\SelectionSort.dll
+G:\Razal\Sourcecodes\C#\Algorithms\SelectionSort\obj\Debug\net7.0\SelectionSort.pdb
+G:\Razal\Sourcecodes\C#\Algorithms\SelectionSort\obj\Debug\net7.0\SelectionSort.genruntimeconfig.cache
+G:\Razal\Sourcecodes\C#\Algorithms\SelectionSort\obj\Debug\net7.0\ref\SelectionSort.dll
